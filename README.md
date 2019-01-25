@@ -1,7 +1,7 @@
 # JsonFormat
 
 ### 格式化json,最终显示结果
-<img src="http://img.mousecloud.cn/public/upload/1548382932959.jpeg" width="600" align="center" />
+<img src="http://img.mousecloud.cn/public/upload/1548382932959.jpeg" width="800" align="center" />
 
 ### 相关代码：
 ```html
